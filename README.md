@@ -4,6 +4,8 @@ This project is a food website created using HTML and CSS. It features a variety
 
 # Demo
 
+![Foodies](https://github.com/UmitAygunn/Foodies-App/assets/140657845/f658da36-303d-448a-9056-0554564b5de8)
+
 Live Demo - Explore the live demo of the food website to discover a wide range of culinary delights, recipes, and more.
 1) https://6533aa784e799311097948ba--statuesque-brigadeiros-ef4a9e.netlify.app/
 
